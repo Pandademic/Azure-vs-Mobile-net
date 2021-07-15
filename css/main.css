@@ -1,0 +1,35 @@
+body {
+    background-color: azure;
+    text-align: center;
+  }
+  body h1 {
+    color: black;
+    font-family: monospace;
+  }
+  body h1 p {
+    font-style: italic;
+  }
+  body b {
+    margin: 10px;
+  }
+  body  div{
+    border-radius: 25px;
+    background-color: cadetblue;
+    height:550px;
+    width: 850px;
+  }
+  div p{
+    font-family: monospace;
+    color: white;
+  }
+  div kbd{
+/*Typewriter label effect  --> */ 
+   width: 10px;
+   height:10px;
+  }
+  div img{
+    width:550;
+    height: 200;
+  }
+  
+  
