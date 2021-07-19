@@ -1,2 +1,2 @@
-# Azure-vs-Mobile-net
-A case study
+# wOLFRAM-vs-Mobile-net
+FRANK!
